@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Soumen  <br>🎓 BCA student passionate about programming and technology  <br><br>🔭 I’m currently working on small Python projects and web development  <br>🤝 I’m looking to collaborate on beginner-friendly open-source projects  <br>🧠 I’m looking for help with improving my coding and problem-solving skills  <br>🌱 I’m currently learning Python, Data Structures, and Web Development  <br>💬 Ask me about Python basics, HTML, CSS, and GitHub  <br>⚡ Fun fact: I enjoy learning new tech skills step by step every day<br>
+👋 Hi, I’m Soumen  <br>🎓 Bsc IT student passionate about programming and technology  <br><br>🔭 I’m currently working on small Python projects and web development  <br>🤝 I’m looking to collaborate on beginner-friendly open-source projects  <br>🧠 I’m looking for help with improving my coding and problem-solving skills  <br>🌱 I’m currently learning Python, Data Structures, and Web Development  <br>💬 Ask me about Python basics, HTML, CSS, and GitHub  <br>⚡ Fun fact: I enjoy learning new tech skills step by step every day<br>
 
 
 ## 🌐 Socials:
